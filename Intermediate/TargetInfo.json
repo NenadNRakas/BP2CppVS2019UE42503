@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BP2Cpp",
+			"Path": "C:\\Users\\Nenad Rakas\\source\\Unreal\\BP2Cpp 4.25\\Source\\BP2Cpp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BP2CppEditor",
+			"Path": "C:\\Users\\Nenad Rakas\\source\\Unreal\\BP2Cpp 4.25\\Source\\BP2CppEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

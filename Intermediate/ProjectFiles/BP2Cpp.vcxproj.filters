@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BP2Cpp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B748EDF9-CFA0-429C-9111-CDBE226EF74F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BP2Cpp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BP2CppEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{431DFF46-40B9-484E-A347-20C30146AEB3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BP2Cpp">
+      <UniqueIdentifier>{C09980F6-213D-4B0C-BD62-16FFF192029C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BP2Cpp\BP2Cpp.Build.cs">
+      <Filter>Source\BP2Cpp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BP2Cpp\BP2Cpp.cpp">
+      <Filter>Source\BP2Cpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BP2Cpp\BP2Cpp.h">
+      <Filter>Source\BP2Cpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BP2Cpp\Grabber.cpp">
+      <Filter>Source\BP2Cpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BP2Cpp\Grabber.h">
+      <Filter>Source\BP2Cpp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\BP2Cpp\QuestManager.h">
+      <Filter>Source\BP2Cpp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\BP2Cpp\QuestManager.cpp">
+      <Filter>Source\BP2Cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BP2Cpp-8397.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Nenad Rakas\source\Unreal\BP2Cpp 4.25\Intermediate\Build\Win64\BP2CppEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Nenad Rakas\source\Unreal\BP2Cpp 4.25\Intermediate\Build\Win64\UE4Editor\Development\BP2Cpp\BP2Cpp.cpp.obj"
+"C:\Users\Nenad Rakas\source\Unreal\BP2Cpp 4.25\Intermediate\Build\Win64\UE4Editor\Development\BP2Cpp\Grabber.cpp.obj"
+"C:\Users\Nenad Rakas\source\Unreal\BP2Cpp 4.25\Intermediate\Build\Win64\UE4Editor\Development\BP2Cpp\QuestManager.cpp.obj"
+"C:\Users\Nenad Rakas\source\Unreal\BP2Cpp 4.25\Intermediate\Build\Win64\UE4Editor\Development\BP2Cpp\BP2Cpp.init.gen.cpp.obj"
+"C:\Users\Nenad Rakas\source\Unreal\BP2Cpp 4.25\Intermediate\Build\Win64\UE4Editor\Development\BP2Cpp\Grabber.gen.cpp.obj"
+"C:\Users\Nenad Rakas\source\Unreal\BP2Cpp 4.25\Intermediate\Build\Win64\UE4Editor\Development\BP2Cpp\QuestManager.gen.cpp.obj"
+"C:\Users\Nenad Rakas\source\Unreal\BP2Cpp 4.25\Intermediate\Build\Win64\UE4Editor\Development\BP2Cpp\Default.rc2.res"
+/OUT:"C:\Users\Nenad Rakas\source\Unreal\BP2Cpp 4.25\Intermediate\Build\Win64\UE4Editor\Development\BP2Cpp\UE4Editor-BP2Cpp-8397.lib"
+/INCLUDE:IMPLEMENT_MODULE_BP2Cpp
