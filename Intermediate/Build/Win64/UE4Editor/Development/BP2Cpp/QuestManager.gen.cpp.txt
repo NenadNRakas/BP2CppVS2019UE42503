@@ -1,5 +1,0 @@
-C:\Users\Nenad Rakas\source\Unreal\BP2Cpp 4.25\Intermediate\Build\Win64\UE4Editor\Development\BP2Cpp\Definitions.BP2Cpp.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Nenad Rakas\source\Unreal\BP2Cpp 4.25\Source\BP2Cpp/QuestManager.h
-C:\Users\Nenad Rakas\source\Unreal\BP2Cpp 4.25\Intermediate\Build\Win64\UE4Editor\Inc\BP2Cpp\QuestManager.generated.h
